@@ -1,0 +1,10 @@
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\bin\Debug\Client.exe
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\bin\Debug\Client.pdb
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.exe
+C:\Users\adamc\source\repos\SK2-HTTP-server-and-client\client\Client\Client\obj\Debug\Client.pdb
